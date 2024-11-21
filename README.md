@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFuJWFPne_Y9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724343173647?e=1737590400&v=beta&t=Pawv7iti6SCUWGEkGxsyGWYkw1_o9WrlfPOCNRW7XrQ" width="700"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFuJWFPne_Y9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724343173647?e=1737590400&v=beta&t=Pawv7iti6SCUWGEkGxsyGWYkw1_o9WrlfPOCNRW7XrQ" width="300"/>
 </div>
 
 ## 🎯 Perfil Profesional
