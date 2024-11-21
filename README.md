@@ -7,9 +7,9 @@
 
 ## 🎯 Perfil Profesional
 Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Combino mi experiencia en desarrollo frontend y backend para construir aplicaciones web robustas y escalables.
-- 📚 Actualmente estudiando Desarrollo de Software
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- 💡 Me apasiona resolver problemas a través del código
+- 📚 Actualmente Estudiando Ingeniería de Sistema
+- 🌱 Siempre Aprendiendo Nuevas Tecnologías
+- 💡 Me Apasiona Resolver Problemas a Través Del Código
 
 ## 🛠️ Stack Tecnológico
 
